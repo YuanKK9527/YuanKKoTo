@@ -1,4 +1,9 @@
 name = "t20250807"
 main = "_worker.js"
 compatibility_date = "2025-08-07"
+
 keep_vars = true
+
+[[kv_namespaces]]
+binding = "KV"
+id = "5db43121c2854c6a9293a82a0d2196d4"
